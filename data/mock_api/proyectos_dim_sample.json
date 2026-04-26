@@ -1,0 +1,80 @@
+[
+  {
+    "project_id": "P001",
+    "nombre": "Implementación CRM 360",
+    "area_responsable": "Tecnología/Comercial",
+    "tipo": "Tecnológico",
+    "inicio": "2024-08-01",
+    "fin_plan": "2025-06-30",
+    "fin_real": "2025-09-30",
+    "estado_actual": "Amarillo",
+    "riesgo": "Medio",
+    "owner_email": "lider.crm@empresa.local",
+    "descripcion": "CRM para gestión comercial y seguimiento."
+  },
+  {
+    "project_id": "P002",
+    "nombre": "Onboarding Digital 2.0",
+    "area_responsable": "Digital",
+    "tipo": "Tecnológico",
+    "inicio": "2024-03-01",
+    "fin_plan": "2024-09-30",
+    "fin_real": "2025-02-28",
+    "estado_actual": "Rojo",
+    "riesgo": "Alto",
+    "owner_email": "lider.digital@empresa.local",
+    "descripcion": "Mejora del flujo de alta y activación digital."
+  },
+  {
+    "project_id": "P003",
+    "nombre": "Integración APIs Core–Indicadores",
+    "area_responsable": "Tecnología/Planeación",
+    "tipo": "Tecnológico",
+    "inicio": "2023-05-01",
+    "fin_plan": "2023-12-31",
+    "fin_real": "2024-02-29",
+    "estado_actual": "Verde",
+    "riesgo": "Bajo",
+    "owner_email": "lider.api@empresa.local",
+    "descripcion": "Integración automatizada del core hacia tableros."
+  },
+  {
+    "project_id": "P004",
+    "nombre": "Digitalización de Desembolsos",
+    "area_responsable": "Operaciones/Digital",
+    "tipo": "Proceso",
+    "inicio": "2023-09-01",
+    "fin_plan": "2024-03-31",
+    "fin_real": "2024-05-31",
+    "estado_actual": "Verde",
+    "riesgo": "Medio",
+    "owner_email": "lider.ops@empresa.local",
+    "descripcion": "Reducción de manualidad y tiempos mediante flujos digitales."
+  },
+  {
+    "project_id": "P005",
+    "nombre": "HUB Inteligente (AI) – Plataforma de Datos",
+    "area_responsable": "Innovación/Analítica",
+    "tipo": "Tecnológico",
+    "inicio": "2024-01-01",
+    "fin_plan": "2024-12-31",
+    "fin_real": "",
+    "estado_actual": "Amarillo",
+    "riesgo": "Medio",
+    "owner_email": "lider.datahub@empresa.local",
+    "descripcion": "Plataforma centralizada para consumo y gobernanza."
+  },
+  {
+    "project_id": "P006",
+    "nombre": "Automatización de Campañas de Referidos",
+    "area_responsable": "Marketing/Digital",
+    "tipo": "Proceso",
+    "inicio": "2025-06-01",
+    "fin_plan": "2025-10-31",
+    "fin_real": "",
+    "estado_actual": "Verde",
+    "riesgo": "Bajo",
+    "owner_email": "lider.marketing@empresa.local",
+    "descripcion": "Automatización de campañas y tracking de conversión."
+  }
+]

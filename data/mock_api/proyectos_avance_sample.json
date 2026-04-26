@@ -1,0 +1,82 @@
+[
+  {
+    "periodo": "2024-03",
+    "project_id": "P002",
+    "avance_planificado_pct": 0.0,
+    "avance_real_pct": 0.0,
+    "estado": "Verde",
+    "riesgo": "Alto"
+  },
+  {
+    "periodo": "2024-01",
+    "project_id": "P003",
+    "avance_planificado_pct": 100.0,
+    "avance_real_pct": 100.0,
+    "estado": "Cerrado",
+    "riesgo": "Bajo"
+  },
+  {
+    "periodo": "2024-02",
+    "project_id": "P003",
+    "avance_planificado_pct": 100.0,
+    "avance_real_pct": 100.0,
+    "estado": "Cerrado",
+    "riesgo": "Bajo"
+  },
+  {
+    "periodo": "2024-03",
+    "project_id": "P003",
+    "avance_planificado_pct": 100.0,
+    "avance_real_pct": 100.0,
+    "estado": "Cerrado",
+    "riesgo": "Bajo"
+  },
+  {
+    "periodo": "2024-01",
+    "project_id": "P004",
+    "avance_planificado_pct": 66.67,
+    "avance_real_pct": 64.85,
+    "estado": "Verde",
+    "riesgo": "Medio"
+  },
+  {
+    "periodo": "2024-02",
+    "project_id": "P004",
+    "avance_planificado_pct": 83.33,
+    "avance_real_pct": 81.73,
+    "estado": "Verde",
+    "riesgo": "Medio"
+  },
+  {
+    "periodo": "2024-03",
+    "project_id": "P004",
+    "avance_planificado_pct": 100.0,
+    "avance_real_pct": 96.79,
+    "estado": "Verde",
+    "riesgo": "Medio"
+  },
+  {
+    "periodo": "2024-01",
+    "project_id": "P005",
+    "avance_planificado_pct": 0.0,
+    "avance_real_pct": 0.0,
+    "estado": "Verde",
+    "riesgo": "Medio"
+  },
+  {
+    "periodo": "2024-02",
+    "project_id": "P005",
+    "avance_planificado_pct": 9.09,
+    "avance_real_pct": 8.67,
+    "estado": "Verde",
+    "riesgo": "Medio"
+  },
+  {
+    "periodo": "2024-03",
+    "project_id": "P005",
+    "avance_planificado_pct": 18.18,
+    "avance_real_pct": 12.95,
+    "estado": "Amarillo",
+    "riesgo": "Medio"
+  }
+]

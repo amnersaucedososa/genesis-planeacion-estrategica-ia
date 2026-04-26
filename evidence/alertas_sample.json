@@ -1,0 +1,62 @@
+[
+  {
+    "run_id": "c71e4464...",
+    "tipo": "indicador",
+    "nombre_entidad": "Tiempo de Desembolso Crédito Primario (hrs)",
+    "periodo": "2025-01",
+    "semafor": "rojo",
+    "meta": 30.0,
+    "realizado": 37.232,
+    "desviacion_pct": 24.1067,
+    "proveedor": "openai-gpt-4o-mini",
+    "texto_alerta": "**Alerta Ejecutiva: Desviación en Tiempo de Desembolso de Crédito Primario**\n\nSe reporta que el tiempo de desembolso del crédito primario ha alcanzado 37.232 horas en enero de 2025, superando la meta establecida de 30.0 horas, con una desviación del 24.11%. \n\nEste incremento puede afectar la satisfacción del cliente y la competitividad en el mercado, generando un riesgo de pérdida de oportunidades de negocio. \n\n**Recomendaciones:**\n1. Implementar un análisis de cuellos de botella en el proceso de desembolso y establecer un plan de mejora inmediato.\n2. Reforzar la capacitación del personal relacionado con el proceso de desembolsos para optimizar el tiempo de respuesta.\n3. Acelerar la integración de tecnologías digitalizadas de desembolsos mediante la asignación de recursos adicionales y priorización de tareas."
+  },
+  {
+    "run_id": "c71e4464...",
+    "tipo": "indicador",
+    "nombre_entidad": "Crecimiento Clientes - Digital",
+    "periodo": "2023-10",
+    "semafor": "rojo",
+    "meta": 70.0,
+    "realizado": 53.0,
+    "desviacion_pct": -24.2857,
+    "proveedor": "openai-gpt-4o-mini",
+    "texto_alerta": "1. En el mes de octubre de 2023, el crecimiento de clientes en el canal digital se ha desviado significativamente de la meta establecida, alcanzando solo el 53.0% frente a un objetivo de 70.0%.  \n2. Esta desviación del -24.29% puede comprometer el rendimiento general de las ventas y la cuota de mercado en el segmento digital.  \n3. Recomendaciones:  \n   - Implementar una campaña de marketing digital intensiva para aumentar la captación de nuevos clientes.  \n   - Revisar y optimizar el proceso de onboarding de clientes para mejorar la conversión.  \n   - Realizar análisis de retroalimentación de clientes actuales para identificar barreras y mejorar la propuesta de valor."
+  },
+  {
+    "run_id": "c71e4464...",
+    "tipo": "indicador",
+    "nombre_entidad": "Crecimiento Clientes - Digital",
+    "periodo": "2024-01",
+    "semafor": "rojo",
+    "meta": 90.0,
+    "realizado": 68.0,
+    "desviacion_pct": -24.4444,
+    "proveedor": "openai-gpt-4o-mini",
+    "texto_alerta": "**Alerta Ejecutiva: Desviación en Crecimiento de Clientes Digital**  \nEn enero de 2024, el indicador de crecimiento de clientes digitales se situó en 68.0, lo que representa una desviación del -24.44% respecto a la meta establecida de 90.0. \n\nEste desempeño negativo podría limitar nuestra capacidad de alcanzar ingresos proyectados y afectar la competitividad en el mercado.\n\n**Recomendaciones:**\n1. Implementar una campaña de marketing digital dirigida y agresiva para captar nuevos clientes, priorizando segmentos de alto potencial.\n2. Revisar y optimizar la experiencia del cliente en la plataforma digital, identificando y solucionando puntos de fricción en el proceso de adquisición.\n3. Monitorear semanalmente el avance de las acciones y ajustar tácticas en tiempo real para maximizar el impacto."
+  },
+  {
+    "run_id": "c71e4464...",
+    "tipo": "indicador",
+    "nombre_entidad": "Tiempo de Desembolso Crédito Primario (hrs)",
+    "periodo": "2024-01",
+    "semafor": "rojo",
+    "meta": 36.0,
+    "realizado": 45.182,
+    "desviacion_pct": 25.5056,
+    "proveedor": "openai-gpt-4o-mini",
+    "texto_alerta": "**Alerta Ejecutiva: Desviación en Tiempo de Desembolso de Crédito Primario**\n\nDurante enero de 2024, el tiempo promedio de desembolso de crédito primario ha llegado a 45.182 horas, superando la meta establecida de 36.0 horas, lo que representa una desviación del 25.51%. \n\nEste retraso puede impactar negativamente la satisfacción del cliente y la reputación de nuestra entidad, afectando la capacidad de captar nuevos negocios.\n\n**Recomendaciones:**\n1. Implementar un análisis de las causas raíz de la demora en los desembolsos, involucrando al equipo de operaciones.\n2. Priorizar la finalización de las estrategias de digitalización de desembolsos, garantizando los recursos necesarios para su rápida implementación.\n3. Establecer KPIs semanales para monitorear el progreso en la mejora de tiempos de desembolso y tomar acciones correctivas de manera ágil."
+  },
+  {
+    "run_id": "c71e4464...",
+    "tipo": "indicador",
+    "nombre_entidad": "Crecimiento Clientes - Digital",
+    "periodo": "2023-01",
+    "semafor": "rojo",
+    "meta": 70.0,
+    "realizado": 51.0,
+    "desviacion_pct": -27.1429,
+    "proveedor": "openai-gpt-4o-mini",
+    "texto_alerta": "**Alerta Ejecutiva: Crecimiento de Clientes Digital - Desviación Crítica**\n\nEn enero de 2023, el crecimiento de clientes digitales alcanzó solo 51.0, representando una desviación negativa del 27.14% respecto a la meta de 70.0. Este desempeño puede afectar gravemente nuestros objetivos estratégicos y la sostenibilidad de ingresos a corto plazo.\n\n**Impacto potencial:** La falta de nuevos clientes digitales podría traducirse en una reducción significativa de ingresos y deterioro de la competitividad en el mercado.\n\n**Recomendaciones:**\n1. Implementar una campaña promocional agresiva enfocada en la adquisición de nuevos clientes digitales para el siguiente mes.\n2. Revisar y optimizar el embudo de conversión en nuestros canales digitales para identificar y eliminar obstáculos que frenan la captación.\n3. Realizar un análisis de mercado para identificar nuevas oportunidades y segmentos de clientes potenciales que no estamos alcanzando."
+  }
+]

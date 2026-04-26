@@ -1,0 +1,58 @@
+[
+  {
+    "indicator_id": "I002",
+    "project_id": "P002",
+    "tipo_relacion": "directo",
+    "impacto_esperado": "Mejorar activación y uso digital",
+    "mecanismo": "Onboarding reduce fricción y aumenta adopción",
+    "lag_meses": 1
+  },
+  {
+    "indicator_id": "I001C",
+    "project_id": "P002",
+    "tipo_relacion": "directo",
+    "impacto_esperado": "Incrementar altas digitales",
+    "mecanismo": "Onboarding aumenta conversiones",
+    "lag_meses": 1
+  },
+  {
+    "indicator_id": "I003",
+    "project_id": "P001",
+    "tipo_relacion": "directo",
+    "impacto_esperado": "Aumentar productividad comercial",
+    "mecanismo": "CRM mejora seguimiento y gestión",
+    "lag_meses": 2
+  },
+  {
+    "indicator_id": "I006",
+    "project_id": "P004",
+    "tipo_relacion": "directo",
+    "impacto_esperado": "Reducir tiempo de desembolso",
+    "mecanismo": "Flujos digitales eliminan manualidad",
+    "lag_meses": 1
+  },
+  {
+    "indicator_id": "I007",
+    "project_id": "P006",
+    "tipo_relacion": "directo",
+    "impacto_esperado": "Mejorar conversión de campañas",
+    "mecanismo": "Automatización mejora seguimiento",
+    "lag_meses": 1
+  },
+  {
+    "indicator_id": "I001",
+    "project_id": "P003",
+    "tipo_relacion": "indirecto",
+    "impacto_esperado": "Oportunidad y consistencia de datos",
+    "mecanismo": "Integración reduce rezago y errores",
+    "lag_meses": 0
+  },
+  {
+    "indicator_id": "I001",
+    "project_id": "P005",
+    "tipo_relacion": "indirecto",
+    "impacto_esperado": "Gobierno de datos",
+    "mecanismo": "Plataforma central reduce inconsistencias",
+    "lag_meses": 0
+  }
+]

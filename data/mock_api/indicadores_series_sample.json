@@ -1,0 +1,107 @@
+[
+  {
+    "periodo": "2024-01",
+    "indicator_id": "I001",
+    "meta": 470.0,
+    "realizado": 539.0,
+    "fuente": "SIMULADO"
+  },
+  {
+    "periodo": "2024-01",
+    "indicator_id": "I001A",
+    "meta": 250.0,
+    "realizado": 252.0,
+    "fuente": "SIMULADO"
+  },
+  {
+    "periodo": "2024-01",
+    "indicator_id": "I001B",
+    "meta": 200.0,
+    "realizado": 219.0,
+    "fuente": "SIMULADO"
+  },
+  {
+    "periodo": "2024-01",
+    "indicator_id": "I001C",
+    "meta": 90.0,
+    "realizado": 68.0,
+    "fuente": "SIMULADO"
+  },
+  {
+    "periodo": "2024-01",
+    "indicator_id": "I002",
+    "meta": 55.0,
+    "realizado": 50.465,
+    "fuente": "SIMULADO"
+  },
+  {
+    "periodo": "2024-02",
+    "indicator_id": "I001",
+    "meta": 470.0,
+    "realizado": 621.0,
+    "fuente": "SIMULADO"
+  },
+  {
+    "periodo": "2024-02",
+    "indicator_id": "I001A",
+    "meta": 250.0,
+    "realizado": 301.0,
+    "fuente": "SIMULADO"
+  },
+  {
+    "periodo": "2024-02",
+    "indicator_id": "I001B",
+    "meta": 200.0,
+    "realizado": 226.0,
+    "fuente": "SIMULADO"
+  },
+  {
+    "periodo": "2024-02",
+    "indicator_id": "I001C",
+    "meta": 90.0,
+    "realizado": 94.0,
+    "fuente": "SIMULADO"
+  },
+  {
+    "periodo": "2024-02",
+    "indicator_id": "I002",
+    "meta": 55.0,
+    "realizado": 54.352,
+    "fuente": "SIMULADO"
+  },
+  {
+    "periodo": "2024-03",
+    "indicator_id": "I001",
+    "meta": 470.0,
+    "realizado": 638.0,
+    "fuente": "SIMULADO"
+  },
+  {
+    "periodo": "2024-03",
+    "indicator_id": "I001A",
+    "meta": 250.0,
+    "realizado": 301.0,
+    "fuente": "SIMULADO"
+  },
+  {
+    "periodo": "2024-03",
+    "indicator_id": "I001B",
+    "meta": 200.0,
+    "realizado": 245.0,
+    "fuente": "SIMULADO"
+  },
+  {
+    "periodo": "2024-03",
+    "indicator_id": "I001C",
+    "meta": 90.0,
+    "realizado": 92.0,
+    "fuente": "SIMULADO"
+  },
+  {
+    "periodo": "2024-03",
+    "indicator_id": "I002",
+    "meta": 55.0,
+    "realizado": 56.162,
+    "fuente": "SIMULADO"
+  }
+]

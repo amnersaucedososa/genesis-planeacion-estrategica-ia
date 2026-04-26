@@ -1,0 +1,7 @@
+project_id,nombre,area_responsable,tipo,inicio,fin_plan,fin_real,estado_actual,riesgo,owner_email,descripcion
+P001,Implementación CRM 360,Tecnología/Comercial,Tecnológico,2024-08-01,2025-06-30,2025-09-30,Amarillo,Medio,lider.crm@empresa.local,CRM para gestión comercial y seguimiento.
+P002,Onboarding Digital 2.0,Digital,Tecnológico,2024-03-01,2024-09-30,2025-02-28,Rojo,Alto,lider.digital@empresa.local,Mejora del flujo de alta y activación digital.
+P003,Integración APIs Core–Indicadores,Tecnología/Planeación,Tecnológico,2023-05-01,2023-12-31,2024-02-29,Verde,Bajo,lider.api@empresa.local,Integración automatizada del core hacia tableros.
+P004,Digitalización de Desembolsos,Operaciones/Digital,Proceso,2023-09-01,2024-03-31,2024-05-31,Verde,Medio,lider.ops@empresa.local,Reducción de manualidad y tiempos mediante flujos digitales.
+P005,HUB Inteligente (AI) – Plataforma de Datos,Innovación/Analítica,Tecnológico,2024-01-01,2024-12-31,,Amarillo,Medio,lider.datahub@empresa.local,Plataforma centralizada para consumo y gobernanza.
+P006,Automatización de Campañas de Referidos,Marketing/Digital,Proceso,2025-06-01,2025-10-31,,Verde,Bajo,lider.marketing@empresa.local,Automatización de campañas y tracking de conversión.

@@ -1,0 +1,92 @@
+# ================================================================
+# ASSESSMENT — .gitignore
+# ================================================================
+
+# ── Carpeta pipeline (núcleo del proyecto — solo local) ──────────
+pipeline/
+
+# ── Documentos personales (solo local) ──────────────────────────
+PLAN_PRESENTACION_GENESIS.docx
+generar_plan_presentacion.py
+*.docx
+*.xlsx
+*.pptx
+
+# ── Secretos (NUNCA subir) ──────────────────────────────────────
+.env
+.env.local
+.env.*.local
+web/.env.local
+web/.env.*.local
+*.key
+*.pem
+
+# ── Python ──────────────────────────────────────────────────────
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ── Node.js / Next.js ────────────────────────────────────────────
+node_modules/
+web/node_modules/
+web/.next/
+web/out/
+web/build/
+web/.vercel/
+web/tsconfig.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ── Archivos de texto y logs generados ──────────────────────────
+*.log
+*.txt
+outputs/pipeline.log
+outputs/chroma/
+outputs/charts/
+
+# ── ChromaDB (índice local regenerable) ─────────────────────────
+chroma_db/
+
+# ── Archivos de sistema macOS / Windows ─────────────────────────
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ── IDEs ─────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# ── Archivos generados por el pipeline ──────────────────────────
+# (Se regeneran con: python3 pipeline/run.py)
+outputs/charts/*.png
+outputs/chroma/
+
+# ── Datos sensibles (manejar con cuidado si son reales) ─────────
+# data/*.db  ← NO ignorado: el SQLite es parte del assessment
+# data/*.csv ← NO ignorado: los CSV son fuentes de datos
+
+# ── Excepciones: mantener estructura de carpetas vacías ─────────
+!outputs/.gitkeep
+!outputs/charts/.gitkeep
+!outputs/chroma/.gitkeep
+!evidence/charts/.gitkeep

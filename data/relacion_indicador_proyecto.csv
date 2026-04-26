@@ -1,0 +1,8 @@
+indicator_id,project_id,tipo_relacion,impacto_esperado,mecanismo,lag_meses
+I002,P002,directo,Mejorar activación y uso digital,Onboarding reduce fricción y aumenta adopción,1
+I001C,P002,directo,Incrementar altas digitales,Onboarding aumenta conversiones,1
+I003,P001,directo,Aumentar productividad comercial,CRM mejora seguimiento y gestión,2
+I006,P004,directo,Reducir tiempo de desembolso,Flujos digitales eliminan manualidad,1
+I007,P006,directo,Mejorar conversión de campañas,Automatización mejora seguimiento,1
+I001,P003,indirecto,Oportunidad y consistencia de datos,Integración reduce rezago y errores,0
+I001,P005,indirecto,Gobierno de datos,Plataforma central reduce inconsistencias,0

@@ -1,0 +1,30 @@
+openapi: 3.0.3
+info:
+  title: Mock API - Planeación Estratégica (Assessment)
+  version: 1.0.0
+servers:
+  - url: http://localhost:8080
+paths:
+  /v1/indicadores:
+    get:
+      summary: Indicadores (dimensión)
+  /v1/indicadores/series:
+    get:
+      summary: Serie mensual de indicadores
+  /v1/proyectos:
+    get:
+      summary: Proyectos (dimensión)
+  /v1/proyectos/avance:
+    get:
+      summary: Avance mensual de proyectos
+  /v1/relaciones:
+    get:
+      summary: Relaciones indicador-proyecto
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+security:
+  - bearerAuth: []

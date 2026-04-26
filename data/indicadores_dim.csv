@@ -1,0 +1,13 @@
+indicator_id,name,objective,area_owner,unit,direction,freq,parent_indicator_id,rollup_method,rollup_weight,drilldown_order,description
+I001,Crecimiento de Clientes (Total),Crecimiento y penetración,Comercial,clientes,higher_is_better,Mensual,,SUM_CHILDREN,,1,Crecimiento neto mensual (altas - bajas). Suma de modelos.
+I001A,Crecimiento Clientes - Modelo Grupal,Crecimiento y penetración,Comercial,clientes,higher_is_better,Mensual,I001,,1.0,2,Crecimiento neto mensual modelo grupal.
+I001B,Crecimiento Clientes - Modelo Individual,Crecimiento y penetración,Comercial,clientes,higher_is_better,Mensual,I001,,1.0,3,Crecimiento neto mensual modelo individual.
+I001C,Crecimiento Clientes - Digital,Crecimiento y digitalización,Digital,clientes,higher_is_better,Mensual,I001,,1.0,4,Crecimiento neto mensual originado por canales digitales.
+I002,% Clientes Digitalizados,Digitalización y eficiencia,Digital,%,higher_is_better,Mensual,,,,1,Clientes activos con uso de canal digital en el mes.
+I003,Clientes por Promotor,Productividad comercial,Comercial,clientes/promotor,higher_is_better,Mensual,,,,1,Promedio de clientes por promotor.
+I004,% Retención de Clientes (Total),Sostenibilidad y retención,Comercial,%,higher_is_better,Mensual,,WEIGHTED_AVG_CHILDREN,,1,Retención mensual total (promedio ponderado por modelo).
+I004A,% Retención - Modelo Grupal,Sostenibilidad y retención,Comercial,%,higher_is_better,Mensual,I004,,0.45,2,Retención mensual modelo grupal.
+I004B,% Retención - Modelo Individual,Sostenibilidad y retención,Comercial,%,higher_is_better,Mensual,I004,,0.55,3,Retención mensual modelo individual.
+I005,% Mora PAR1,Riesgo y calidad de cartera,Riesgos,%,lower_is_better,Mensual,,,,1,Porcentaje de cartera con mora PAR1.
+I006,Tiempo de Desembolso Crédito Primario (hrs),Eficiencia operativa,Operaciones,horas,lower_is_better,Mensual,,,,1,Tiempo promedio desde aprobación a desembolso (crédito primario).
+I007,% Efectividad de Campañas,Crecimiento y penetración,Marketing,%,higher_is_better,Mensual,,,,1,Conversión de campañas sobre leads contactados.
