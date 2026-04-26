@@ -690,5 +690,5 @@ assessment/
 
 ---
 
-*Fundación Génesis Empresarial · Sistema de Planeación Estratégica con IA · Guatemala 2025*
+*Fundación Génesis Empresarial · Sistema de Planeación Estratégica con IA · Guatemala 2026*
 *Postulante: Assessment TI — Especialista en Automatización y Agentes de IA*
